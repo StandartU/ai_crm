@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.3.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.4">
   <diagram name="Страница-1" id="_1tfYeOLs1jSCLgeaFGE">
-    <mxGraphModel dx="1869" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,21 +43,21 @@
         <mxCell id="HJ5l_imLcQ1kyILEcFN1-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Данные от внешних приложений" vertex="1">
           <mxGeometry height="40" width="120" x="20" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="HJ5l_imLcQ1kyILEcFN1-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;API-ключ&lt;/div&gt;&lt;div&gt;Права доступа&lt;/div&gt;" vertex="1">
+        <mxCell id="HJ5l_imLcQ1kyILEcFN1-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;API-ключ&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="90" x="300" y="230" as="geometry" />
         </mxCell>
         <mxCell id="HJ5l_imLcQ1kyILEcFN1-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Данные о клиентах и продажах" vertex="1">
-          <mxGeometry height="40" width="70" x="500" y="320" as="geometry" />
+          <mxGeometry height="40" width="70" x="500" y="310" as="geometry" />
         </mxCell>
         <mxCell id="HJ5l_imLcQ1kyILEcFN1-31" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <Array as="points" />
-            <mxPoint x="880" y="514.25" as="sourcePoint" />
-            <mxPoint x="1040" y="514.25" as="targetPoint" />
+            <mxPoint x="880" y="510" as="sourcePoint" />
+            <mxPoint x="1040" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HJ5l_imLcQ1kyILEcFN1-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Клиентская база данных" vertex="1">
-          <mxGeometry height="40" width="80" x="700" y="400" as="geometry" />
+          <mxGeometry height="40" width="80" x="700" y="390" as="geometry" />
         </mxCell>
         <mxCell id="HJ5l_imLcQ1kyILEcFN1-34" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="HJ5l_imLcQ1kyILEcFN1-11" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -135,28 +135,11 @@
         <mxCell id="rqoGvufHD2jg-g3Xq-dD-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Политики доступа и безопасности&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="600" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="rqoGvufHD2jg-g3Xq-dD-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Клиентская база&lt;/div&gt;&lt;div&gt;Отчёты по продажам&lt;/div&gt;&lt;div&gt;Аналитические показатели&lt;/div&gt;&lt;div&gt;Рекомендации AI ассистента&lt;/div&gt;&lt;div&gt;Прогнозы продаж&lt;/div&gt;API-Ключ" vertex="1">
-          <mxGeometry height="110" width="150" x="1040" y="465" as="geometry" />
-        </mxCell>
-        <mxCell id="rqoGvufHD2jg-g3Xq-dD-9" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
-          <mxGeometry relative="1" width="100" as="geometry">
-            <Array as="points" />
-            <mxPoint x="880" y="503.75" as="sourcePoint" />
-            <mxPoint x="1040" y="503.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rqoGvufHD2jg-g3Xq-dD-10" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <Array as="points" />
-            <mxPoint x="880" y="524.25" as="sourcePoint" />
-            <mxPoint x="1040" y="524.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rqoGvufHD2jg-g3Xq-dD-11" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
-          <mxGeometry relative="1" width="100" as="geometry">
-            <Array as="points" />
-            <mxPoint x="880" y="534.25" as="sourcePoint" />
-            <mxPoint x="1040" y="534.25" as="targetPoint" />
+            <mxPoint x="880" y="530" as="sourcePoint" />
+            <mxPoint x="1040" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rqoGvufHD2jg-g3Xq-dD-13" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
@@ -172,6 +155,36 @@
             <mxPoint x="880" y="544.75" as="sourcePoint" />
             <mxPoint x="1040" y="544.75" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XT-nTAoLwVoqJkbbbBrD-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="681" y="439.5" as="sourcePoint" />
+            <mxPoint x="1040" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XT-nTAoLwVoqJkbbbBrD-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="290" y="280" as="sourcePoint" />
+            <mxPoint x="1040" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XT-nTAoLwVoqJkbbbBrD-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;API-ключ&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="960" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="XT-nTAoLwVoqJkbbbBrD-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Клиентская база данных" vertex="1">
+          <mxGeometry height="40" width="80" x="965" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="XT-nTAoLwVoqJkbbbBrD-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Отчёты по продажам&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="140" x="1045" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="XT-nTAoLwVoqJkbbbBrD-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Аналитические показатели" vertex="1">
+          <mxGeometry height="10" width="160" x="1050" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="XT-nTAoLwVoqJkbbbBrD-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Рекомендации AI ассистента" vertex="1">
+          <mxGeometry height="10" width="175" x="1050" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="XT-nTAoLwVoqJkbbbBrD-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Прогнозы продаж&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="120" x="1045" y="545" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
